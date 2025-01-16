@@ -1,0 +1,9 @@
+transformers==4.39.3
+sentence-transformers
+faiss-cpu
+PyPDF2
+pdfplumber
+python-docx
+numpy
+Werkzeug
+Flask
