@@ -93,10 +93,15 @@ Contributions are welcome! Please submit a pull request or open an issue for sug
 ---
 
 ## Main Author/Creator
-- **Akshay Kumar**  
-  [GitHub Profile](https://github.com/akshaysatyam2)
+**Akshay Kumar**   |
+[Mail](mailto:akshaysatyam2003@gmail.com) |
+[GitHub](https://github.com/akshaysatyam2) | 
+[LinkedIn](https://www.linkedin.com/in/akshaysatyam2) | 
+[X](https://x.com/akshaysatyam2) | 
+[Kaggle](https://www.kaggle.com/akshaysatyam2) | 
+[Instagram](https://www.instagram.com/akshaysatyam2/#) |
 
 ---
 
 ## Contributors
-- Akshay Kumar ([GitHub](https://github.com/akshaysatyam2)), 
+Akshay Kumar ([GitHub](https://github.com/akshaysatyam2))
