@@ -92,11 +92,11 @@ Contributions are welcome! Please submit a pull request or open an issue for sug
 
 ---
 
-## Author
+## Main Author/Creator
 - **Akshay Kumar**  
   [GitHub Profile](https://github.com/akshaysatyam2)
 
 ---
 
 ## Contributors
-- Akshay Kumar ([GitHub](https://github.com/akshaysatyam2))
+- Akshay Kumar ([GitHub](https://github.com/akshaysatyam2)), 
